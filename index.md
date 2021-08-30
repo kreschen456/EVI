@@ -5,7 +5,7 @@ The EVI Group is based in the Information School at the University of Wisconsin-
 
 ### EVI Group Members
 
-[Link]  Professor Alan Rubel (iSchool) (https://ischool.wisc.edu/blog/staff/rubel-alan/)[Link]
+[Professor Alan Rubel (iSchool)] (https://ischool.wisc.edu/blog/staff/rubel-alan/)
 Professor Kristin Eschenfelder (iSchool)
 Distinguished Faculty Associate Dorothea Salo (iSchool)
 Professor Anuj Desai (Law School)
