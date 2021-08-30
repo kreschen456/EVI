@@ -1,9 +1,9 @@
-## The Ethics, Values and Information (EVI) Group at the University of Wisconsin-Madison
+#The Ethics, Values and Information (EVI) Group at the University of Wisconsin-Madison
 
-The Ethics, Values and Information Group pursues scholarship in the intersections of ethics, law, and data and informatino technologies.
-The EVI Group is based in the Information School at the University of Wisconsin-Madison, and includes faculty and staff from the Law School, Bioethics and other departments as well as interested graduate and undergraduate students.   
+The Ethics, Values and Information Group pursues scholarship in the intersections of ethics, law, and data and information technologies.
+The EVI Group is based in the Information School at the University of Wisconsin-Madison but and includes faculty, staff and students from the Law School, Bioethics and other departments. 
 
-### EVI Group Members
+## EVI Group Members
 
 -[Professor Alan Rubel(iSchool)](https://ischool.wisc.edu/blog/staff/rubel-alan/)
 
