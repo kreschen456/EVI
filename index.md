@@ -5,15 +5,15 @@ The EVI Group is based in the Information School at the University of Wisconsin-
 
 ### EVI Group Members
 
-[Professor Alan Rubel (iSchool)(https://ischool.wisc.edu/blog/staff/rubel-alan/)
-[Professor Kristin Eschenfelder (iSchool)](https://ischool.wisc.edu/blog/staff/eschenfelder-kristin-r/)
-[Distinguished Faculty Associate Dorothea Salo (iSchool)](https://ischool.wisc.edu/blog/staff/salo-dorothea/)
-[Professor Anuj Desai (Law School)](https://ischool.wisc.edu/blog/staff/desai-anuj/)
-[Professor Pilar Ossario (Law School, Medical History & Bioethics)](https://secure.law.wisc.edu/profiles/pnossorio@wisc.edu)
+-[Professor Alan Rubel(iSchool)](https://ischool.wisc.edu/blog/staff/rubel-alan/)
+-[Professor Kristin Eschenfelder (iSchool)](https://ischool.wisc.edu/blog/staff/eschenfelder-kristin-r/)
+-[Distinguished Faculty Associate Dorothea Salo (iSchool)](https://ischool.wisc.edu/blog/staff/salo-dorothea/)
+-[Professor Anuj Desai (Law School)](https://ischool.wisc.edu/blog/staff/desai-anuj/)
+-[Professor Pilar Ossario (Law School, Medical History & Bioethics)](https://secure.law.wisc.edu/profiles/pnossorio@wisc.edu)
 
 ### EVI Students
 
-[PhD Student Mariah Knowles](https://ischool.wisc.edu/blog/staff/knowles-mariah/)
+[Mariah Knowles, PhD student iSchool](https://ischool.wisc.edu/blog/staff/knowles-mariah/)
 
 
 ### Former EVI Students
