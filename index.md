@@ -21,8 +21,8 @@ The EVI Group is based in the Information School at the University of Wisconsin-
 
 
 ### Former EVI Students
-[Kyle Jones, IUPUI School of Informatics and Computing](https://soic.iupui.edu/people/kyle-jones/)
-
+[Kyle Jones, Assistant Professor IUPUI School of Informatics and Computing](https://soic.iupui.edu/people/kyle-jones/)
+[Mei Zhang, Postdoctoral Scholar Syracuse Univeristy iSchool] (https://ischool.syr.edu/mei-zhang/)
 
 [Link](url) and ![Image](src)
 
