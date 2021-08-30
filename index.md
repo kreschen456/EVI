@@ -25,5 +25,4 @@ The EVI Group is based in the Information School at the University of Wisconsin-
 
 [Mei Zhang, Postdoctoral Scholar Syracuse Univeristy iSchool](https://ischool.syr.edu/mei-zhang/)
 
-[Link](url) and ![Image](src)
 
