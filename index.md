@@ -6,9 +6,13 @@ The EVI Group is based in the Information School at the University of Wisconsin-
 ### EVI Group Members
 
 -[Professor Alan Rubel(iSchool)](https://ischool.wisc.edu/blog/staff/rubel-alan/)
+
 -[Professor Kristin Eschenfelder (iSchool)](https://ischool.wisc.edu/blog/staff/eschenfelder-kristin-r/)
+
 -[Distinguished Faculty Associate Dorothea Salo (iSchool)](https://ischool.wisc.edu/blog/staff/salo-dorothea/)
+
 -[Professor Anuj Desai (Law School)](https://ischool.wisc.edu/blog/staff/desai-anuj/)
+
 -[Professor Pilar Ossario (Law School, Medical History & Bioethics)](https://secure.law.wisc.edu/profiles/pnossorio@wisc.edu)
 
 ### EVI Students
@@ -17,7 +21,7 @@ The EVI Group is based in the Information School at the University of Wisconsin-
 
 
 ### Former EVI Students
-Kyle Jones, IUPUI School of Informatics and Computing (https://soic.iupui.edu/people/kyle-jones/)
+[Kyle Jones, IUPUI School of Informatics and Computing](https://soic.iupui.edu/people/kyle-jones/)
 
 
 [Link](url) and ![Image](src)
